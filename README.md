@@ -1,6 +1,7 @@
 # Do or Die
-test git push from ubuntu
 
----
+## Let's do this
 
-test helix editor
+### Just do it
+
+#### Just do it
