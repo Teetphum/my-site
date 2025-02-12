@@ -8,3 +8,4 @@
 
 #### Test mount --bind
 
+#### test from /home directory
