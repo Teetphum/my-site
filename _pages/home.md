@@ -4,16 +4,16 @@ permalink: /
 hidden: true
 title: " "
 header:
-  # overlay_image: assets/images/home-cover-img.jpg
-  # caption: "credit: [**Unsplash**](https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw)"
-  overlay_color: "#34495e"
-  actions:
-    - label: "<i class='fas fa-bolt'></i> My roadmap"
-      url: "/roadmap/"
+    # overlay_image: assets/images/home-cover-img.jpg
+    # caption: "credit: [**Unsplash**](https://unsplash.com/photos/blue-sky-with-clouds-viNPa2F7fnw)"
+    overlay_color: "#34495e"
+    actions:
+        - label: "<i class='fas fa-bolt'></i> My roadmap"
+          url: "/roadmap/"
 tagline: >
-  \" It may seem difficult at first, <br>
-  but <strong style='color:#fa9b39;'>everything is difficult at first.</strong>\" <br><br>
-  --- Miyamoto Musashi ---
+    \" It may seem difficult at first, <br>
+    but <strong style='color:#fa9b39;'>everything is difficult at first.</strong>\" <br><br>
+    --- Miyamoto Musashi ---
 # feature_row:
 #   - image_path: assets/images/home-cover-img.jpg
 #     alt: "customizable"
@@ -40,7 +40,7 @@ tagline: >
 # {% include video id="Z1mlyfza9i8" provider="youtube" %}
 # {% include video id="fcvHgr9Nb7Q" provider="youtube" %}
 reminder:
-  - excerpt: " FORTUNE FAVORS THE BRAVE "
+    - excerpt: "FORTIS FORTUNA ADIUVAT"
 ---
 
 <div class="feature__wrapper">
